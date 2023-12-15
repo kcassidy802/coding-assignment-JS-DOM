@@ -1,0 +1,12 @@
+#h1 {   /* Just minor css for the website where we can center our H1 and underline it*/
+    text-align: center;
+    text-decoration: underline;
+}
+
+#p  {  /* Just making the introduction Paragraph font a little bigger and styled*/
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+/* Open up With a Live Server Now */
